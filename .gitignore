@@ -1,0 +1,6 @@
+# Obsidian 설정 파일 — Git 추적 제외 (개인 설정)
+.obsidian/
+
+# 캐시
+*.db
+*.tmp
